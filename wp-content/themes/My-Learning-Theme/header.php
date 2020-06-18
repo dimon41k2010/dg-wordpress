@@ -18,7 +18,6 @@
                     'menu_class' => 'top-bar'
             )
     );
-
     ?>
     </div>
 </header>

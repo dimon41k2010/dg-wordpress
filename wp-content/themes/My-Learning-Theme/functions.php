@@ -9,7 +9,6 @@ function load_css() {
     wp_enqueue_style('main');
 }
 
-
 add_action('wp_enqueue_scripts', 'load_css');
 
 // Load JavaScript
@@ -26,9 +25,7 @@ add_theme_support('menus');
 // Menus
 register_nav_menus(
     array(
-        'Top-menu' => 'Top Menu Location',
+        'top-menu' => 'Top Menu Location',
         'mobile-menu' => 'Mobile Menu Location'
     )
-
 );
-?>
