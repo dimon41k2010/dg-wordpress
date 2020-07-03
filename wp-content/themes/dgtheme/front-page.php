@@ -9,19 +9,19 @@ get_header();
 					<div class="banner_content">
 						<div class="media">
 							<div class="d-flex">
-								<img src="<?php echo get_template_directory_uri().'/img/personal.jpg'; ?>" alt="pic">
+								<img src="<?php echo get_template_directory_uri().'/img/IMG_2369(1).jpg'; ?>" alt="pic">
 							</div>
 							<div class="media-body">
 								<div class="personal_text">
 									<h6>Hello Everybody, i am</h6>
-									<h3>Donald McKinney</h3>
-									<h4>Junior UI/UX Developer</h4>
+									<h3>Dmytro Gord</h3>
+									<h4>Very Junior Software Developer</h4>
 									<p>You will begin to realise why this exercise is called the Dickens Pattern (with reference to the ghost showing Scrooge some different futures)</p>
 									<ul class="list basic_info">
-										<li><a href="#"><i class="lnr lnr-calendar-full"></i> 31st December, 1992</a></li>
-										<li><a href="#"><i class="lnr lnr-phone-handset"></i> 44 (012) 6954 783</a></li>
-										<li><a href="#"><i class="lnr lnr-envelope"></i> businessplan@donald</a></li>
-										<li><a href="#"><i class="lnr lnr-home"></i> Santa monica bullevard</a></li>
+										<li><a href="#"><i class="lnr lnr-calendar-full"></i> 25th June, 1988</a></li>
+										<li><a href="#"><i class="lnr lnr-phone-handset"></i> +38 (095) 733 7729</a></li>
+										<li><a href="#"><i class="lnr lnr-envelope"></i> dmytro.gordiienko@gmail.com</a></li>
+										<li><a href="#"><i class="lnr lnr-home"></i> Mountain View, CA</a></li>
 									</ul>
 									<ul class="list personal_social">
 										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -38,6 +38,7 @@ get_header();
         <!--================End Home Banner Area =================-->
         
         <!--================Welcome Area =================-->
+		
         <section class="welcome_area p_120">
         	<div class="container">
         		<div class="row welcome_inner">

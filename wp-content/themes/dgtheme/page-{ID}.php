@@ -28,6 +28,7 @@ get_header();
 					comments_template();
 				}
 
+				
 			endwhile; // End the loop.
 			?>
 
@@ -36,3 +37,4 @@ get_header();
 
 <?php
 get_footer();
+
